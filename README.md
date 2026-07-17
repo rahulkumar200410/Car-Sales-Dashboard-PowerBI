@@ -16,11 +16,11 @@ The dashboard includes dynamic filters and interactive visuals to quickly identi
 
 ### Sales Dashboard
 
-![Sales Dashboard](Background/dashboard.png)
+![Sales Dashboard](Images/Dashboard.png)
 
 ### Sales Details
 
-![Sales Details](Background/details.png)
+![Sales Details](Images/Details.png)
 
 ---
 
@@ -114,11 +114,11 @@ Users can analyze data using:
 ## 📂 Project Structure
 
 ```
-Car-Sales-Dashboard-PowerBI/
+Car-Sales-Dashboard/
 │
-├── Background/
-│   ├── dashboard.png
-│   └── details.png
+├── Images/
+│   ├── Dashboard.png
+│   └── Details.png
 │
 ├── Dataset/
 │   └── Car Sales Dataset.xlsx
@@ -173,12 +173,26 @@ The dataset used for this project contains car sales transaction data including:
 
 ---
 
-## 👨‍💻 Author
+# 🤝 Connect With Me
 
-**Rahul Kumar**
+## Rahul Kumar Sao
 
-- GitHub: https://github.com/rahulkumar200410
+🎓 Final Year B.Tech Student | Aspiring Data Analyst
+
+📌 **GitHub**
+
+[GitHub](https://github.com/rahulkumar200410)
+
+📌 **LinkedIn**
+
+[LinkedIn](https://www.linkedin.com/in/rahul-kumar-sao-8a5175322)
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+## ⭐ If you found this project useful, consider giving it a Star!
+
+Feedback and suggestions are always welcome.
+
+---
+
+**Thank you for visiting this repository!**
